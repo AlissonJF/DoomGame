@@ -1,6 +1,6 @@
 import pygame as pg
 import math
-from config import *
+from settings import *
 
 
 class RayCasting:
